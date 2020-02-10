@@ -51,8 +51,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <ReactPlayer width="100%" height="450" playing
-        url="https://soundcloud.com/birna-dam/sets/bcotl/s-YuWjK" />
+      <ReactPlayer url="https://soundcloud.com/birna-dam/sets/bcotl/s-YuWjK" playing />
       <Footer />
     </div >
   )
