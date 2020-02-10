@@ -52,7 +52,7 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       <div>{children}</div>
       <ReactPlayer width="100%" height="450" playing
-        url="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/984925351%3Fsecret_token%3Ds-YuWjK&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+        url="https://soundcloud.com/birna-dam/sets/bcotl/s-YuWjK" />
       <Footer />
     </div >
   )
