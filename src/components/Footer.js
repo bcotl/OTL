@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="B <3 C"
-            style={{ width: '14em', height: '10em' }}
+            style={{ width: '14em', height: '10em', opacity: '.80', borderRadius: '2%'}}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -22,34 +22,9 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
-                        Home
-                      </Link>
-                    </li>
-                    <li>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
                     </li>
                   </ul>
                 </section>
@@ -62,16 +37,25 @@ const Footer = class extends React.Component {
                         Latest Stories
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 social">
-              <ReactPlayer url="https://soundcloud.com/birna-dam/sets/bcotl" width="100%" height="0%" playing />
+              <div className="column is-4">
+                <section>
+                  <ul className="menu-list">
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Admin
+                      </a>
+                    </li>
+                  </ul>
+                </section>
+                <ReactPlayer url="https://soundcloud.com/birna-dam/sets/bcotl" width="100%" height="0%" playing />
               </div>
             </div>
           </div>
