@@ -59,7 +59,7 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-                <ReactPlayer style={{margin: auto}} url="https://soundcloud.com/birna-dam/sets/bcotl" width="40%" height="0%" playing />
+                <ReactPlayer style={{margin: '0, auto'}} url="https://soundcloud.com/birna-dam/sets/bcotl" width="40%" height="0%" playing />
               </div>
             </div>
           </div>
