@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactPlayer from 'react-player'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
@@ -51,7 +50,6 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <ReactPlayer url="https://soundcloud.com/birna-dam/sets/bcotl" width="10%" height="10%" controls playing />
       <Footer />
     </div >
   )
