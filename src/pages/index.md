@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: For Us
+title: Haven
 image: /img/01bafa78751ca32cb3761ccd1df38a0790d500ecc6.jpg
-heading: For us
-subheading: Our Haven
+heading: Haven
+subheading: For Our Memories
 mainpitch:
   title: Why Kaldi
   description: >
