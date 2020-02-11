@@ -84,8 +84,8 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span className="icon">
-                  <img style={{height: "5rem", width: "5rem"}} src={github} alt="Github" />
+                <span style={{height: "50px", width: "50px"}}>
+                  <img src={github} alt="Github" />
                 </span>
               </a>
             </div>
