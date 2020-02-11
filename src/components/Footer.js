@@ -18,7 +18,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
-              <div className="column is-4">
+              {/* <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -43,23 +43,9 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-              </div>
+              </div> */}
               <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
-                <ReactPlayer style={{margin: '0, auto'}} url="https://soundcloud.com/birna-dam/sets/bcotl" width="40%" height="0%" playing />
+                <ReactPlayer url="https://soundcloud.com/birna-dam/sets/bcotl" width="100%" height="0%" playing />
               </div>
             </div>
           </div>
