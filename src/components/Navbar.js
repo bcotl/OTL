@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
-          <div style={{color: "#EDD7B1", fontSize: "18px", padding: "0 2rem"}}>
+          <div style={{color: "#EDD7B1", fontSize: "18px", padding: "1rem 2rem 0"}}>
             <Link to="/" title="Logo">
               {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
               One Traces Logged
@@ -85,7 +85,7 @@ const Navbar = class extends React.Component {
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img style={{height: "3rem", width: "3rem"}} src={github} alt="Github" />
                 </span>
               </a>
             </div>
