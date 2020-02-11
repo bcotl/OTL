@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
-          <div style ={{color: "#C3D7ED", fontSize: "18px"}}>
+          <div style ={{color: "#F6D7D4", fontSize: "18px", padding: "1rem"}}>
             <Link to="/" title="Logo">
               {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
               One True Love
