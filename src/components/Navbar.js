@@ -84,7 +84,7 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span style={{height: "150px", width: "150px", padding: "2rem"}}>
+                <span>
                   <img src={github} alt="Github" />
                 </span>
               </a>
