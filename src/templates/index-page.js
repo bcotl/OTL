@@ -29,6 +29,7 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: 'flex',
+          width: 'fit-content',
           height: '250px',
           lineHeight: '1',
           justifyContent: 'space-around',

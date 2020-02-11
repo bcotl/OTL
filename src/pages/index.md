@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: OTL
 image: /img/01bafa78751ca32cb3761ccd1df38a0790d500ecc6.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: OTL
+subheading: A haven for our memories
 mainpitch:
   title: Why Kaldi
   description: >
