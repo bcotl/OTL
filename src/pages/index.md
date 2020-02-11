@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: OTL
+title: For Us
 image: /img/01bafa78751ca32cb3761ccd1df38a0790d500ecc6.jpg
-heading: OTL
-subheading: A haven for our memories
+heading: For us
+# subheading: 
 mainpitch:
   title: Why Kaldi
   description: >
