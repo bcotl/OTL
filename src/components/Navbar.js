@@ -77,17 +77,17 @@ const Navbar = class extends React.Component {
                 Form Examples
               </Link> */}
             </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item icon"
+            <div className="has-text-centered unicorn">
+              {/* <a 
+                // className="navbar-item"
                 // href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
+              //   target="_blank"
+              //   rel="noopener noreferrer"
+              // >*/}
+                
                   <img src={github} alt="Github" />
-                </span>
-              </a>
+                
+              {/* </a> */}
             </div>
           </div>
         </div>
