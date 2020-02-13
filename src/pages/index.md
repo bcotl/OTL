@@ -7,7 +7,12 @@ subheading: For Our Memories
 mainpitch:
   title: Why OTL?
   description: >
-    Our Traces Logged. One True Love. Obscene Transcending Losers... I don't know haha, I just thought it'd make sense to create this blog for us and dub it in short as OTL for now because it goes way back to our origins. Of course, I'd love for you and I to one day create a travel blog that we can blast to the public... but for now, this is for you and I to lay our fondest memories. I love ya, dorkie ^.^
+    Our Traces Logged. One True Love. Obscene Transcending Losers... I don't
+    know haha, I just thought it'd make sense to create this blog for us and dub
+    it in short as OTL for now because it goes way back to our origins. Of
+    course, I'd love for you and I to one day create a travel blog that we can
+    blast to the public... but for now, this is for you and I to lay our fondest
+    memories. I love ya, dorkie ^.^
 description: >-
   I picked OTL because this acronym represents us on so many levels. All the goofy times, the sexual ><, and the rough times where it's like we were metaphorically on our knees. We've been OTL for each other before we ever realized. Our story is unique and deserves to be documented, so enjoy love, and make sure to write lots! I wrote some to start, have fun reading :D 
 # intro:
