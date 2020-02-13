@@ -35,12 +35,13 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        style={{backgroundColor: "#FAF3E7"}}
+        className="navbar"
         role="navigation"
         aria-label="main-navigation"
       >
         <div className="container">
-          <div style={{color: "#EDD7B1", fontSize: "18px", padding: "2rem"}}>
+          <div style={{color: "#EDE6CD", fontSize: "18px", padding: "2rem"}}>
             <Link to="/" title="Logo">
               {/* <img src={logo} alt="Kaldi" style={{ width: '88px' }} /> */}
               Our Traces Logged
