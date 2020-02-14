@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Silly
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The first thing that comes to mind for me is this. We're in every sense of the word 'Silly'. From day one, our interactions were not only silly in nature but also silly in behavior. We acted really funny towards one another and over time it became very prevalent to me that I would always find humor with you. I'm funnier though :'D
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### One of a Kind
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Each unique in our own ways. But even more unique together. Cut from a different cloth yet we share a beautiful connection. The things we do agree on get amplified... and the things that don't? Well they raise a conversation and often times we influence each other in the most opportune of times. Our energy is 'One of a Kind'.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Ridiculous 
+
+The existence of us is really 'Ridiculous'. Think about the whole thing. How we came to be. How there were plenty of forces against us yet somehow we still prevailed and continue to do so. We also ridiculous because we're roffin, I mean... that's pretty much a fusion of silly and one of a kind LOL. I'm pretty sure no couple out there is like us ._.
+
+### Ambitious
+
+I don't know if it's the timing or what it is. But the amount of drive we currently possess is baffling. We both know what we want in life. And we're bullishly working towards our dreams in hopes of making them a reality. I'm proud of the both of us and I can't wait to see what the future has in store for us. OTLOTL 
+
+<br><br><div align="right">How I feel about Us - Birna (2/14/2020)
