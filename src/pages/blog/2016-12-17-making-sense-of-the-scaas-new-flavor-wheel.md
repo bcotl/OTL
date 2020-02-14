@@ -1,35 +1,34 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: The Day it became Official
 date: 2019-04-26T07:00:00.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  April 26th, my birthday... and up until my 27th, it was just that. Now it
+  holds more meaning, it's our anniversary :0
 featuredpost: false
 featuredimage: /img/0196501d149657cb4cea8b418ca56adb1e3a069b5e.jpg
 tags:
-  - flavor
-  - tasting
+  - unicorn
+  - sushi
+  - uni
+  - beach
+  - favorite
+  - dance
+  - dorks
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![us at beach](/img/0196501d149657cb4cea8b418ca56adb1e3a069b5e.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+This day was so nerve-wracking baby. I was legit on edge for the whole week. I knew I wanted to make you mine. Every ounce of my being was telling me, "DO IT!" 
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## April 26th, 2019
 
-## What the updates mean to you
+I remember this day pretty well. I picked you up at the airport and like every other time where we went ages apart... we quickly jumped each other. We were being all lovey dovey in front of everyone as if no one around us existed. Because that's exactly what it was in that moment. I saw the love of my life, and I couldn't contain myself ><\
+\
+Afterwards, I brought you to a sushi restaurant nearby where I experienced Uni for the first time ever. (One of our conversations a long long time prior lead me to planning this because you said you wanted to see me try uni because you really like it - I really liked it too!) You stared at me while I ate it, it was kinda funny LOL. And you expected me to hate it but I didn't hahaha\
+\
+Eventually we ended up at the beach, Heisler Park (My favorite place down there)...\
+It made sense to me to ask you out here because you're my favorite person. We walked the beach and somehow ended up in a semi-isolated corner. Well kinda, LOL there were some people not too far from us literally staring at us be gay the entire time AHAHAHA I'm pretty sure they saw us grinding up on each other being spicy too XD
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+;.; I danced for you, and it was to a song that I felt represented us well. It was a sad song... but my feelings poured into that piece. You enjoyed it and was smiling and reacting the whole time which had me even more nervous because I'm like dam... you're stunning :0 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Then I finished dancing and you came up to embrace me but you felt me hella shaking, and I'm sure you felt I was still really anxious... and in that moment I did the thing that had us embark on an entirely new journey. I asked you to be my girlfriend. And you granted my wish. My love, my baby unikone cwystal, I love you so, and I can't wait to see what's in store for us. I love ya dork, and you're my absolute favorite. Don't you ever forget, even with that Alzheimer's, or you will feel the wrath of my reminders!
