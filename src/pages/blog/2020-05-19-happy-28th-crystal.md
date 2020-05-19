@@ -18,7 +18,7 @@ I will gift you four things today
 Here's a video to ***commemorate*** our beautiful time together\
 I swear *twin flames* is what we were. I'll never forget how we felt
 
-<iframe src="https://drive.google.com/file/d/1JtplbkyUfGrqECCq9A8pxffj6ID5nG-S/preview" width="960" height="540"></iframe>
+<iframe src="https://drive.google.com/file/d/1JtplbkyUfGrqECCq9A8pxffj6ID5nG-S/preview" width="100%" height="100%" position="absolute" left="0" top="0"></iframe>
 
 <br></br>
 
@@ -78,3 +78,7 @@ Here's a poem I wrote as I was on a plane to SoCal almost two months ago because
 \
 Y*our frenchy fries,*\
 *Birna*
+
+
+
+![french fries fish sauce](/img/f3s.png "french fries fish sauce")
