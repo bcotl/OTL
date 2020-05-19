@@ -4,7 +4,7 @@ title: Happy 28th Crystal
 date: 2020-05-18T22:57:13.520Z
 description: I was really conflicted whether I should do something for you
 featuredpost: true
-featuredimage: /img/f3s.png
+featuredimage: /img/f3s.JPG
 tags:
   - happy birthday garlic queen
 ---
@@ -18,7 +18,11 @@ I will gift you four things today
 Here's a video to ***commemorate*** our beautiful time together\
 I swear *twin flames* is what we were. I'll never forget how we felt
 
-<iframe src="https://drive.google.com/file/d/1JtplbkyUfGrqECCq9A8pxffj6ID5nG-S/preview" width="100%" height="100%" position="absolute" left="0" top="0"></iframe>
+<!--StartFragment-->
+
+<https://drive.google.com/file/d/1JtplbkyUfGrqECCq9A8pxffj6ID5nG-S/view>
+
+<!--EndFragment--><iframe src="https://drive.google.com/file/d/1JtplbkyUfGrqECCq9A8pxffj6ID5nG-S/preview" width="100%" height="100%" position="absolute" left="0" top="0"></iframe>
 
 <br></br>
 
@@ -79,6 +83,4 @@ Here's a poem I wrote as I was on a plane to SoCal almost two months ago because
 Y*our frenchy fries,*\
 *Birna*
 
-
-
-![french fries fish sauce](/img/f3s.png "french fries fish sauce")
+![french fries fish sauce](/img/f3s.JPG "french fries fish sauce")
